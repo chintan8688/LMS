@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "740830431958",
+    "firebase_url": "https://kalimahtayebah-8ff1f.firebaseio.com",
+    "project_id": "kalimahtayebah-8ff1f",
+    "storage_bucket": "kalimahtayebah-8ff1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740830431958:android:0c93aceae04f34b219d777",
+        "android_client_info": {
+          "package_name": "com.kalimahtayebah.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740830431958-d6hin6pmbh7o7lpqs0dhcvlplmnb9iap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalimahtayebah.app",
+            "certificate_hash": "5659a9efcb4801dfe35b3ea83d04093fe55996f6"
+          }
+        },
+        {
+          "client_id": "740830431958-ppslu618lhf29d3uagb7qsnm4o1ql7ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalimahtayebah.app",
+            "certificate_hash": "a72a81acfacc4f139abd5a5f52ad2c2d4091495f"
+          }
+        },
+        {
+          "client_id": "740830431958-hu50s5rmrt1ncrostcuodlhabflas5pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbX5Ln7VjiP4x33BPIIyackG4O-G0TmHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740830431958-hu50s5rmrt1ncrostcuodlhabflas5pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>740830431958-0h9d20nmipl52rptn270i6jobnspg449.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.740830431958-0h9d20nmipl52rptn270i6jobnspg449</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>740830431958-d6hin6pmbh7o7lpqs0dhcvlplmnb9iap.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC16pOnLK5qsohS0XvKNBFS8jGsJZ7hpqA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>740830431958</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kalimahtayebah.app</string>
+	<key>PROJECT_ID</key>
+	<string>kalimahtayebah-8ff1f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kalimahtayebah-8ff1f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:740830431958:ios:a82b6bb756d1decc19d777</string>
+	<key>DATABASE_URL</key>
+	<string>https://kalimahtayebah-8ff1f.firebaseio.com</string>
+</dict>
+</plist>
